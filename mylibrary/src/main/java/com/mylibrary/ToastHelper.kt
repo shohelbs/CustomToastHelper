@@ -1,4 +1,4 @@
-package com.customtoasthelper
+package com.mylibrary
 
 import android.content.Context
 import android.widget.Toast
