@@ -5,7 +5,7 @@ plugins {
 
 android {
     compileSdk 30
-
+    defaultPublishConfig "debug"
     defaultConfig {
 //        applicationId "com.customtoasthelper"
         minSdk 16
